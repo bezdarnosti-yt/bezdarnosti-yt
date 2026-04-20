@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<p align="center">
+  [Поддержать автора (DonationAlerts)](https://www.donationalerts.com/r/bezdarnosti1)
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
